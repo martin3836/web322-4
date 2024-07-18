@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "public": true,
+  "builds": [
+    {
+      "src": "server.js",
+      "use": "@vercel/node"
+    },
+    {
+      "src": "public/*/*",
+      "use": "@vercel/static"
+    }
+  ],
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "/server.js"
+    }
+  ],
+  "env": {
+    "PORT": "8000",
+    "OTHER_ENV_VAR": "value"
+  }
+}
