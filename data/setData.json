@@ -15,20 +15,6 @@
     "num_parts": "676"
   },
   {
-    "set_num": "10216-1",
-    "name": "Winter Village Bakery",
-    "year": "2010",
-    "theme_id": "227",
-    "num_parts": "687"
-  },
-  {
-    "set_num": "10217-1",
-    "name": "Diagon Alley",
-    "year": "2011",
-    "theme_id": "246",
-    "num_parts": "2032"
-  },
-  {
     "set_num": "10218-1",
     "name": "Pet Shop",
     "year": "2011",
@@ -41,7 +27,7 @@
     "year": "2011",
     "theme_id": "673",
     "num_parts": "1233"
-  },
+  }
   {
     "set_num": "102-2",
     "name": "Imagination Basic Set 2",
