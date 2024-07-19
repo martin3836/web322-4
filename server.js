@@ -4,10 +4,10 @@
  * No part of this assignment has been copied manually or electronically from any other source
  * (including web sites) or distributed to other students.
  *
- * Name: Renato Cordova
- * Student ID: 153325238
- * Date: 07/07/2024
- *  Published URL: https://webb322-6ftz0a4fv-renfunnys-projects.vercel.app/
+ * Name: Martin Mathew Roy
+ * Student ID: 166262212
+ * Date: 18 jul 2024
+ *  Published URL: https://web322-4-l2ar.vercel.app/
  *
  ********************************************************************************/
 const legoData = require("./modules/legoSets");
